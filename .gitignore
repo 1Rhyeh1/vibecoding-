@@ -1,0 +1,12 @@
+# 工具与依赖
+.codeartsdoer/
+node_modules/
+
+# 课程原始文档（体积较大，不建议提交）
+*.docx
+*.doc
+
+# 系统与日志
+.DS_Store
+Thumbs.db
+*.log
